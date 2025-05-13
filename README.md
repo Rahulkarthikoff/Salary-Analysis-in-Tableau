@@ -1,5 +1,7 @@
 # 📊 Data Science Salaries Dashboard (Tableau Project)
 
+You can download the Mini_Project_1.twb file and view it and edit it on the Tableau Desktop 
+
 This project presents a dynamic Tableau dashboard built using the `ds_salaries.csv` dataset. The dashboard explores global salary trends in the data science field by analyzing various dimensions such as job title, experience level, company size, and geographic location.
 
 ---
