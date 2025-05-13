@@ -82,7 +82,7 @@ To visualize and uncover insights into:
 
 ## 👨‍💻 Author
 
-**Rahul — B.Tech in AI & DS | Aspiring Data Analyst / ML Engineer**
+**Rahul — B.Tech in AI & DS **
 
 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rahulkarthikeyanoff/))
 
