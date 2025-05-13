@@ -86,6 +86,6 @@ To visualize and uncover insights into:
 
 **Rahul — B.Tech in AI & DS **
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rahulkarthikeyanoff/))
+Connect with me on [LinkedIn]([https://www.linkedin.com/posts/rahulkarthikeyanoff_tableau-dataanalytics-datascience-activity-7328086551744131072-GftB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzMGoAB6q1ATMW5ujUwvAn79gPIhhVrS3o])
 
 ---
